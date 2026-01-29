@@ -1,0 +1,15 @@
+c:\Users\intcl\anansi\bookstore-app\bookstore-backend\src\main\java\com\bookstore\BookstoreApplication.java
+c:\Users\intcl\anansi\bookstore-app\bookstore-backend\src\main\java\com\bookstore\controller\BookController.java
+c:\Users\intcl\anansi\bookstore-app\bookstore-backend\src\main\java\com\bookstore\controller\CustomerController.java
+c:\Users\intcl\anansi\bookstore-app\bookstore-backend\src\main\java\com\bookstore\dto\CustomerLoginRequest.java
+c:\Users\intcl\anansi\bookstore-app\bookstore-backend\src\main\java\com\bookstore\dto\CustomerRegisterRequest.java
+c:\Users\intcl\anansi\bookstore-app\bookstore-backend\src\main\java\com\bookstore\entity\Book.java
+c:\Users\intcl\anansi\bookstore-app\bookstore-backend\src\main\java\com\bookstore\entity\Customer.java
+c:\Users\intcl\anansi\bookstore-app\bookstore-backend\src\main\java\com\bookstore\entity\User.java
+c:\Users\intcl\anansi\bookstore-app\bookstore-backend\src\main\java\com\bookstore\mapper\BookMapper.java
+c:\Users\intcl\anansi\bookstore-app\bookstore-backend\src\main\java\com\bookstore\mapper\CustomerMapper.java
+c:\Users\intcl\anansi\bookstore-app\bookstore-backend\src\main\java\com\bookstore\mapper\UserMapper.java
+c:\Users\intcl\anansi\bookstore-app\bookstore-backend\src\main\java\com\bookstore\service\BookService.java
+c:\Users\intcl\anansi\bookstore-app\bookstore-backend\src\main\java\com\bookstore\service\CustomerService.java
+c:\Users\intcl\anansi\bookstore-app\bookstore-backend\src\main\java\com\bookstore\service\impl\BookServiceImpl.java
+c:\Users\intcl\anansi\bookstore-app\bookstore-backend\src\main\java\com\bookstore\service\impl\CustomerServiceImpl.java
